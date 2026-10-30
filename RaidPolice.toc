@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cFFFF8000RaidPolice|r |cFFFFD100v1.17|r |cFFFF8000[Legendary]|r
+## Notes: |cFFFFD100Detector LEGENDARIO:|r Parry, Festin x99, Manada, MC y First Hit con Pets
+## Author: |cFFFF8000Seth - OverLord Fix|r
+## Version: 1.17
+## SavedVariables: RaidPoliceDB
+
+RaidPolice.lua
